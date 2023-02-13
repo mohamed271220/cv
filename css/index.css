@@ -2,6 +2,11 @@ body{
     background-color: rgb(246, 252, 251);
     font-family: 'Merriweather', sans-serif;
 }
+.brand {
+    font-weight: bold;
+
+}
+
 .hero{
     background-color: rgb(230, 245, 242);
     height:auto;
